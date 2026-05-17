@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,Ma chaîne
-https://example.com/stream.m3u8
+#EXTINF:-1, tvg-name="TF1"
+https://poland.assistancefrancaise.com/hls/transcoder02/1/tracks-v1a1/mono.ts.m3u8

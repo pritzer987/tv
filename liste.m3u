@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TF1",TF1
+#EXTINF:-1 tvg-name="TF1" http-user-agent="Mozilla/5.0",TF1
 https://poland.assistancefrancaise.com/hls/transcoder02/1/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="M6",M6
+#EXTINF:-1 tvg-name="M6" http-user-agent="Mozilla/5.0",M6
 https://poland.assistancefrancaise.com/hls/transcoder03/19/tracks-v1a1/mono.ts.m3u8
